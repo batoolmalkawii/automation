@@ -1,8 +1,8 @@
-PR:
+PR: https://github.com/batoolmalkawii/automation/pull/1
 
 # Automation
 
-In this project, we were given a document `potential-contacts`, we used `regex` to find and collect all email addresses and phone numbers.
+In this project, we analyzed a document `potential-contacts`, we used `regex` to find and collect all email addresses and phone numbers.
 
 Once emails and phone numbers are found they are be stored in two separate documents. `emails.txt`, `phone_numbers.txt`.
 
